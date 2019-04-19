@@ -1,0 +1,47 @@
+body{
+    background-image: url(./imagem/923698.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    font-family: 'Bangers', cursive;
+
+}
+
+/* .titulo{
+    text-align: center;
+    margin-top: 65px;
+    font-size: 45px;
+    color: #EEB422; */
+
+
+
+.musica{
+    text-align: center;
+    margin-top: 35px;
+   
+}
+
+.sub__titulo{
+    text-align: center;
+    font-size: 30px;
+    color:#CD950C;
+    /* margin-bottom: 40px; */
+    margin-top: 470px;
+    
+} 
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color: #CD950C;
+
+}
+/* @media screen and (max-width: 1024px) {
+    body{
+        background-image: url(./imagem/923698.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100px;
+    }
+ } */
+

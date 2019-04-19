@@ -1,0 +1,34 @@
+body{
+    background-image: url(./imagem/img3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 65px;
+    font-size: 45px;
+    color: aliceblue;
+
+}
+
+.musica{
+    text-align: center;
+    margin-top: 35px;
+   
+}
+
+.sub__titulo{
+    text-align: center;
+    font-size: 24px;
+    color: aliceblue;
+    
+} 
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color: aliceblue;
+
+}
+
